@@ -46,6 +46,6 @@ members: ["eliasnau", "belsetbut"]
     <img src="https://skillicons.dev/icons?i=vscode,git,linux,vim,docker,bash,cloudflare" /><br>
 </div>
 <br/>
-<hr/>
 
+## Support us
 <a href='https://ko-fi.com/O5O1UPS8G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

@@ -14,7 +14,7 @@ our_vision:
     "Providing Open Source Conntent",
     "Developing useful Tools",
   ]
-company: Soulber
+owner: eliasnau
 
 fields_of_interests:
   [

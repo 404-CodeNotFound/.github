@@ -39,15 +39,13 @@ current_projects: ["Messenger", "Operation Undercover Game"]
 members: ["eliasnau", "belsetbut"]
 ```
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,cpp,html,css,js,rust,py,java,mysql,mongodb,unity,unreal,flask" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,linux,vim,docker,bash,cloudflare" /><br>
+</div>
+<br/>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/404codenotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="404codenotfound" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/eaa385xygg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="eaa385xygg" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404-codenotfound&show_icons=true&locale=en&layout=compact" alt="404-codenotfound" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404-codenotfound&show_icons=true&locale=en" alt="404-codenotfound" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404-codenotfound&" alt="404-codenotfound" /></p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O1UPS8G)

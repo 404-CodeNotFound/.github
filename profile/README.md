@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404-codenotfound" alt="404-codenotfound" /></a> </p>
 
-##About us
+## About us
 ```yaml
 name: 404CodeNotFound
 located_in: Germany

@@ -1,8 +1,17 @@
-<h3 align="center">404CodeNotFound, the best Development Studio!</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Welcome+at+404CodeNotFound+👋;The+best+development+studio" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404-codenotfound&label=Profile%20views&color=0e75b6&style=flat" alt="404-codenotfound" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404-codenotfound" alt="404-codenotfound" /></a> </p>
+</div>
+<h3 align="left">Contact us:</h3>
+<p align="left">
+<a href="https://twitter.com/elias35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/22953084" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22953084" height="40" width="40" /></a>
+<a href="https://github.com/404codenotfound/.github/issues" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="40" width="40" /></a>
+<a href="https://discord.gg/eaa385XYgg" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="en35" height="40" width="40" /></a>
+</p>
 
 ## About us
 ```yaml

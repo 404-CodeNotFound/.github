@@ -8,7 +8,7 @@
 We strive to make software and web applications accessible to individuals and businesses of all sizes. We offer cost-effective solutions with a focus on usability and functionality.
 
 ## Further Development
-Since XO-6 is a very young company, the products and services offered are probably still in the development phase. It will be interesting to see what concrete software solutions and community offerings 404CodeNotFound will offer in the future.
+Since we are a very young company, the products and services offered are probably still in the development phase. It will be interesting to see what concrete software solutions and community offerings 404CodeNotFound will offer in the future.
 
 ## Contact us
 <p align="center">

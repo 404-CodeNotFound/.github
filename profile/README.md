@@ -4,6 +4,12 @@
 <br/>
 404CodeNotFound is a German software company founded on March 23, 2024. The company's mission is to bring affordable software and web applications to the market for everyone.
 
+## Our Vision
+We strive to make software and web applications accessible to individuals and businesses of all sizes. We offer cost-effective solutions with a focus on usability and functionality.
+
+## Further Development
+Since XO-6 is a very young company, the products and services offered are probably still in the development phase. It will be interesting to see what concrete software solutions and community offerings XO-6 will offer in the future.
+
 ## Contact us
 <p align="center">
 <a href="https://twitter.com/elias35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="40" width="40" /></a>
@@ -11,13 +17,6 @@
 <a href="https://github.com/404-codenotfound/.github/discussions" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="40" width="40" /></a>
 <a href="https://discord.gg/eaa385XYgg" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="en35" height="40" width="40" /></a>
 </p>
-
-## Vision
-We strive to make software and web applications accessible to individuals and businesses of all sizes. We offer cost-effective solutions with a focus on usability and functionality.
-
-## Further Development
-Since XO-6 is a very young company, the products and services offered are probably still in the development phase. It will be interesting to see what concrete software solutions and community offerings XO-6 will offer in the future.
-
 
 ## Support us
 <a href='https://ko-fi.com/O5O1UPS8G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

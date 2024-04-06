@@ -1,51 +1,23 @@
 <h1 align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=F76B6B&center=true&random=false&width=435&lines=404CodeNotFound;The+best+development+Studio" alt="Typing SVG" />
+<img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=F76B6B&center=true&random=false&width=435&lines=404CodeNotFound;The+best+development+Studio" alt="404CodeNotFound" />
 </h1>
-
 <br/>
+404CodeNotFound is a German software company founded on March 23, 2024. The company's mission is to bring affordable software and web applications to the market for everyone.
 
 ## Contact us
 <p align="center">
 <a href="https://twitter.com/elias35_35" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="en_35_35" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/22953084" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22953084" height="40" width="40" /></a>
+<a href="mailto://elias@404codenotfound.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="elias@404codenotfound.com" height="40" width="40" /></a>
 <a href="https://github.com/404-codenotfound/.github/discussions" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="en35" height="40" width="40" /></a>
 <a href="https://discord.gg/eaa385XYgg" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="en35" height="40" width="40" /></a>
 </p>
 
-## About us
-```yaml
-name: 404CodeNotFound
-located_in: Germany
-createt at: "2024-01-21T18:18:18Z"
-our_vision:
-  [
-    "Providing Open Source Conntent",
-    "Developing useful Tools",
-  ]
-owner: eliasnau
+## Vision
+We strive to make software and web applications accessible to individuals and businesses of all sizes. We offer cost-effective solutions with a focus on usability and functionality.
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-  
-current_projects: ["Messenger", "Operation Undercover Game"]
-2024 Goals: ["Create 25+ Projects"]
-members: ["eliasnau", "belsetbut"]
-```
+## Further Development
+Since XO-6 is a very young company, the products and services offered are probably still in the development phase. It will be interesting to see what concrete software solutions and community offerings XO-6 will offer in the future.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,cpp,html,css,js,rust,py,java,mysql,mongodb,unity,unreal,flask" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,linux,vim,docker,bash,cloudflare" /><br>
-</div>
-<br/>
 
 ## Support us
 <a href='https://ko-fi.com/O5O1UPS8G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
